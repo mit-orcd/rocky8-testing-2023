@@ -22,7 +22,7 @@ Notes on testing of new Rocky 8 Linux nodes on enagaing cluster.  As part of rol
   
 ## Running on new nodes
 
-Th new Rocky 8 nodes are grouped into partitions corresponding to their buy-in owners. The current partitions are listed [here]().
+Th new Rocky 8 nodes are grouped into partitions corresponding to their buy-in owners. The current partitions are listed [here](partitions.md).
   
 ## Getting help
 
