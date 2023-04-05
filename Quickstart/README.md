@@ -11,6 +11,8 @@ Notes on testing of new Rocky 8 Linux nodes on enagaing cluster.  As part of rol
 ## Login
 
     ssh -l ACCOUNT_NAME eofe4.mit.edu
+    
+ where `ACCOUNT_NAME` is your MIT kerberos account name.  
 
 ## New software stack
 
