@@ -5,6 +5,7 @@ Notes on testing of new Rocky 8 Linux nodes on enagaing cluster.  As part of rol
  * a new two-factor login node, `eofe4.mit.edu`, integrated with MIT enterprise Duo authentication.
  * a new operating system, Rocky 8 Linux, and updated software stack.
  * new processors from AMD and GPUs from NVidia.
+ * a new zone in the MGHPCC data center ( https://www.mghpcc.org ). 
 
 
 ## Login
