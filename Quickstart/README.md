@@ -22,8 +22,16 @@ Notes on testing of new Rocky 8 Linux nodes on enagaing cluster.  As part of rol
   
 ## Running on new nodes
 
-Th new Rocky 8 nodes are grouped into partitions corresponding to their buy-in owners. The current partitions are listed [here](partitions.md). Accounts are associated with one or more of these partitions. An example comand to request an interactive shell on a node in a particular partition is
+Th new Rocky 8 nodes are grouped into partitions corresponding to their buy-in owners. The current partitions are listed [here](partitions.md). Accounts are associated with one or more of these partitions. An example comand to request an interactive shell on a node in a particular partition for nodes with GPUs is
 
+        salloc -p sched_mit_kburdge_r8 --mem=0 -N 1 --exclusive --gres=gpu:4
+        
+        
+an example for a CPU node is
+
+        salloc  -p sched_mit_pog_r8 --mem=0 -N 1 --exclusive
+        
+Individual accounts have access to partitions that correspond to the group(s) they ar part of. 
     
   
 ## Getting help
