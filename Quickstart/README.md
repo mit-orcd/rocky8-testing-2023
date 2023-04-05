@@ -22,7 +22,7 @@ Notes on testing of new Rocky 8 Linux nodes on enagaing cluster.  As part of rol
   
 ## Getting help
 
-For questions and help pleas feel free to reach out to orcd-help@mit.edu 
+For questions and help please feel free to reach out to orcd-help@mit.edu .
   
 ## Integration with existing engaging storage and home directories
 
