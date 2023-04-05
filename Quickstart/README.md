@@ -14,7 +14,7 @@ Notes on testing of new Rocky 8 Linux nodes on enagaing cluster.  As part of rol
 
 ## New software stack
 
-  Currently a very basic set of compilers is available. Scott is activly building and testing the next level of tools. All software is available through modules e.g.
+  Currently a _very basic_ set of compilers is available. Scott is actively building and testing the next level of tools. All software is available through modules e.g.
   
       module load gcc cuda openmpi/4.1.4-pmi-cuda-ucx cmake
       
