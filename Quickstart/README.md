@@ -38,7 +38,7 @@ Individual accounts have access to partitions that correspond to the group(s) th
   
 ## Getting help
 
-For questions and help or if something does not work, please feel free to reach out to orcd-help@mit.edu .
+For questions and help or if something does not work or make sense, please feel free to reach out to orcd-help@mit.edu .
   
 ## Integration with existing engaging storage and home directories
 
