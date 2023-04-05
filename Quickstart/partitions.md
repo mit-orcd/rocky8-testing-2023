@@ -48,6 +48,6 @@ The partition names correspond to MIT web moira ( https://groups.mit.edu/webmoir
 
     Nodes=node[2414-2417]
 
-* sched_mit_testing_r8 
+* sched_mit_r8_testing 
     
      all the Rocky 8 nodes. Used for system testing. 
