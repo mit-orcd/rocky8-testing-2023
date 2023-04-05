@@ -1,4 +1,4 @@
-# Quick start notes
+# Quick start early testing notes
 
 Notes on testing of new Rocky 8 Linux nodes on enagaing cluster.  As part of roll out of these new nodes the following are being tested
    
@@ -38,7 +38,7 @@ Individual accounts have access to partitions that correspond to the group(s) th
   
 ## Getting help
 
-For questions and help please feel free to reach out to orcd-help@mit.edu .
+For questions and help or if something does not work, please feel free to reach out to orcd-help@mit.edu .
   
 ## Integration with existing engaging storage and home directories
 
