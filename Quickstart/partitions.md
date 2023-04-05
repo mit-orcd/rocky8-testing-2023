@@ -16,13 +16,13 @@ The partition names correspond to MIT web moira ( https://groups.mit.edu/webmoir
 
     Nodes=node[2412-2413]
 
-
 * sched_mit_fraenkel_r8
 
-
+    Nodes=node2403 
 
 * sched_mit_jhewitt_r8
 
+    Nodes=node2403 
 
 * sched_mit_kburdge_r8
    
