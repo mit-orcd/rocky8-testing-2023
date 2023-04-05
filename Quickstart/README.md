@@ -19,3 +19,7 @@ Notes on testing of new Rocky 8 Linux nodes on enagaing cluster.  As part of rol
       module load gcc cuda openmpi/4.1.4-pmi-cuda-ucx cmake
       
   will activate a consistent set of recent C, C++, Fortran and nvcc compilers and their MPI parallel wrappers, along with the cmake tool for software building. 
+  
+## Integration with existing engaging storage and home directories
+
+All the nodes are part of the Engaging cluster. General documentaitons can be found at https://engaging-web.mit.edu/eofe-wiki/ . 
