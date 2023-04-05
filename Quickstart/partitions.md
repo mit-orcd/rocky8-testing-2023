@@ -26,22 +26,27 @@ The partition names correspond to MIT web moira ( https://groups.mit.edu/webmoir
 
 * sched_mit_kburdge_r8
    
-
+   Nodes=node[2002-2005]
 
 * sched_mit_pog_r8
 
+   Nodes=node[2419-2422]
 
 * sched_mit_psfc_r8
 
+   Nodes=node[2101-2118,2301-2318]
 
 * sched_mit_rodrigof_r8
 
+   Nodes=node[2404-2411] 
 
 * sched_mit_schuh_r8
 
+   Nodes=node[2006-2011]
 
 * sched_mit_sloan_r8
 
+    Nodes=node[2414-2417]
 
 * sched_mit_testing_r8 
     
