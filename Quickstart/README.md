@@ -11,3 +11,9 @@ Notes on testing of new Rocky 8 Linux nodes on enagaing cluster.  As part of rol
 ## Login
 
     ssh -l ACCOUNT_NAME eofe4.mit.edu
+
+## New software stack
+
+  Currently a very basic set of compilers is available. Scott is activly building and testing the next level of tools. All software is available through modules .e.
+  
+      module load gcc
