@@ -31,7 +31,7 @@ an example for a CPU node is
 
         salloc  -p sched_mit_pog_r8 --mem=0 -N 1 --exclusive
         
-Individual accounts have access to partitions that correspond to the group(s) they ar part of. 
+Individual accounts have access to partitions that correspond to the group(s) they are part of. 
     
   
 ## Getting help
