@@ -1,7 +1,11 @@
 # Partitions
 
 The list of testing partitions below shows Rocky 8 nodes that have been provisioned for testing. 
-To run a specific partition use the `-p PARTITION_NAME` option in Slurm.
+To run a specific partition use the `-p PARTITION_NAME` option in Slurm. For example to atart an interactiv session on a single node in partition `sched_mit_kburdge_r8`
+
+   ```
+   salloc
+   ```
 
 * sched_mit_arupc_r8
 
