@@ -36,6 +36,10 @@ The partition names correspond to MIT web moira ( https://groups.mit.edu/webmoir
 
    Nodes=node[2101-2118,2301-2318]
 
+* sched_mit_rafagb_r8
+
+   Nodes=node[2012-2023]
+
 * sched_mit_rodrigof_r8
 
    Nodes=node[2404-2411] 
