@@ -14,7 +14,7 @@ Notes on testing of new Rocky 8 Linux nodes on enagaing cluster.  As part of rol
     
  where `ACCOUNT_NAME` is your MIT kerberos account name.  
  
- Note - if you have not used the engaging cluster before you need to activate your account before loging in. To do this go to the https://engaging-ood.mit.edu web portal and sign in with your MIT credentials. 
+ Note - if you have not used the engaging cluster before you need to activate your account before loging in. To do this go to the https://engaging-ood.mit.edu web portal and sign in with your MIT credentials. That will automatically activate your account. 
 
 ## New software stack
 
