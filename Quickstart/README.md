@@ -49,3 +49,14 @@ For questions and help or if something does not work or make sense, please feel 
 ## Integration with existing engaging storage and home directories
 
 All the nodes are part of the Engaging cluster. General documentation can be found at https://engaging-web.mit.edu/eofe-wiki/ . 
+
+## Managing group access
+
+Permissions to access a partition can be managed from a Moira group with same name as the partition. Moira groups are accessed at https://groups.mit.edu/webmoira .
+
+
+
+
+
+
+
