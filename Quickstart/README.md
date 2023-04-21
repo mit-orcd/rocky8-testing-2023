@@ -26,7 +26,7 @@ Notes on testing of new Rocky 8 Linux nodes on enagaing cluster.  As part of rol
   
 ## Running on new nodes
 
-Th new Rocky 8 nodes are grouped into partitions corresponding to their buy-in owners. The current partitions are listed [here](partitions.md). Accounts are associated with one or more of these partitions. An example comand to request an interactive shell on a node in a particular partition for nodes with GPUs is
+Th new Rocky 8 nodes are grouped into Slurm partitions corresponding to their buy-in owners. The current partitions are listed [here](partitions.md). Accounts are associated with one or more of these partitions. An example comand to request an interactive shell on a node in a particular partition for nodes with GPUs is
 
         salloc -p sched_mit_kburdge_r8 --mem=0 -N 1 --exclusive --gres=gpu:4
         
@@ -52,7 +52,7 @@ All the nodes are part of the Engaging cluster. General documentation can be fou
 
 ## Managing group access
 
-Permissions to access a partition can be managed from a Moira group with same name as the partition. Moira groups are accessed at https://groups.mit.edu/webmoira .
+Permissions for account names to access a Slurm partition can be managed from a Moira group with same name as the partition. Moira groups are accessed at https://groups.mit.edu/webmoira . Account names can be added to or removed from groups on these web pages and the change will be propogated to the Slurm partition access lists. 
 
 
 
