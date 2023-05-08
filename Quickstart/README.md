@@ -54,7 +54,10 @@ All the nodes are part of the Engaging cluster. General documentation can be fou
 
 ## Managing group access
 
-Permissions for account names to access a Slurm partition can be managed from a Moira group with same name as the partition. Moira groups are accessed at https://groups.mit.edu/webmoira . Account names can be added to or removed from groups on these web pages and the change will be propogated to the Slurm partition access lists. 
+Permissions for account names to access a Slurm partition can be managed from a Moira group with same name as the partition. Moira groups are accessed at https://groups.mit.edu/webmoira. Account names can be added to or removed from groups on these web pages and the changes will be propogated automatically to the Slurm partition access lists. Changes typically take about 15 minutes to propogate.  When a login id is added or removed from a group the id holder needs to log in again for Moira changes to take effect. 
+
+
+
 
 
 
