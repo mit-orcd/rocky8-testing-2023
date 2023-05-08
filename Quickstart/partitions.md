@@ -15,6 +15,15 @@ The partition names correspond to MIT web moira ( https://groups.mit.edu/webmoir
 * sched_mit_arupc_r8
 
     Nodes=node[2412-2413]
+    
+* sched_mit_ejossou_r8
+    
+    Nodes=**TBD**
+
+    
+* sched_mit_emiliob_r8
+    
+    Nodes=**TBD**
 
 * sched_mit_fraenkel_r8
 
@@ -31,6 +40,10 @@ The partition names correspond to MIT web moira ( https://groups.mit.edu/webmoir
 * sched_mit_mhowland_r8
    
    Nodes=node[2423-2424]
+
+* sched_mit_nse_r8
+ 
+   Nodes=**TBD**
 
 * sched_mit_pog_r8
 
