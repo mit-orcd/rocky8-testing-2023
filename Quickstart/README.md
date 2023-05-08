@@ -6,6 +6,8 @@ Notes on testing of new Rocky 8 Linux nodes on the engaging cluster.  As part of
  * a new operating system, Rocky 8 Linux, and updated software stack ( https://rockylinux.org ).
  * new processors from AMD and GPUs from NVidia.
  * a new zone in the MGHPCC data center ( https://www.mghpcc.org ). 
+ 
+ For anyone using nodes with Rocky Linux the environment is slightly different. Regular Slurm commands, accounts and file systems are as before, but there is a new tree of modules software and new Rocky Linux login nodes. The new Rocky Linux modules tree is active by default when engaging is accessed through Rocky Linux login nodes. 
 
 
 ## Login
