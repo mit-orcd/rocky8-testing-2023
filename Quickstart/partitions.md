@@ -8,7 +8,7 @@ To run a specific partition use the `-p PARTITION_NAME` option in Slurm. For exa
    salloc -p sched_mit_kburdge_r8 --mem=0 -N 1 --exclusive --gres=gpu:4
    ```
    
-The partition names correspond to MIT web moira ( https://groups.mit.edu/webmoira/ ) groups. Accounts in the web moira group coresponding to a partition name can access that partition. 
+The partition names correspond to MIT web moira ( https://groups.mit.edu/webmoira/ ) groups. Accounts in the web moira group corresponding to a partition name can access that partition. 
 
 ## Partition list
 
