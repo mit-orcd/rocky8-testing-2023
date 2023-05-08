@@ -40,6 +40,10 @@ The partition names correspond to MIT web moira ( https://groups.mit.edu/webmoir
 * sched_mit_mhowland_r8
    
    Nodes=node[2423-2424]
+   
+* sched_mit_mki_r8
+
+   Nodes=node[2000-2001]
 
 * sched_mit_nse_r8
  
