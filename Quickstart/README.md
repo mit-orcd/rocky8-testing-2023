@@ -1,6 +1,6 @@
 # Quick start early testing notes
 
-Notes on testing of new Rocky 8 Linux nodes on the engaging cluster.  As part of the roll out of newer nodes the following are being tested
+Notes on testing of new Rocky 8 Linux nodes on the engaging cluster.  As part of the roll out of newer nodes the following are also being deployed
    
  * a new two-factor login node, `eofe4.mit.edu`, integrated with MIT enterprise Duo authentication ( https://duo.mit.edu ).
  * a new operating system, Rocky 8 Linux, and updated software stack ( https://rockylinux.org ).
