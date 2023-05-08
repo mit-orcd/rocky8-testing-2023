@@ -18,12 +18,12 @@ The partition names correspond to MIT web moira ( https://groups.mit.edu/webmoir
     
 * sched_mit_ejossou_r8
     
-    Nodes=**TBD**
+    Nodes=**TBD** ( 2 from node[1900-1916] ) 
 
     
 * sched_mit_emiliob_r8
     
-    Nodes=**TBD**
+    Nodes=**TBD** ( 4 from node[1900-1916] ) 
 
 * sched_mit_fraenkel_r8
 
@@ -43,7 +43,7 @@ The partition names correspond to MIT web moira ( https://groups.mit.edu/webmoir
 
 * sched_mit_nse_r8
  
-   Nodes=**TBD**
+   Nodes=**TBD** ( 11 from node[1900-1916] )
 
 * sched_mit_pog_r8
 
