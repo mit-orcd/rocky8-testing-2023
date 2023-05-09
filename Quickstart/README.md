@@ -26,6 +26,17 @@ Notes on testing of new Rocky 8 Linux nodes on the engaging cluster.  As part of
       
   will activate a consistent set of recent C, C++, Fortran and nvcc compilers and their MPI parallel wrappers, along with the cmake tool for software building. Lots more pre-built (python, mathematica, matlab, hdf, netcdf, bioconda etc...) software and examples will be added soon, we are just testing the Rocky 8 setup. 
   
+  A stand-alone default python module can be activated by using
+  
+    module load gcc/12.2.0-x86_64
+    module load python/3.10.8-x86_64
+    
+  an anaconda integrated python with many pre-built packages can be activated by using
+  
+    module load anaconda3/2022.05-x86_64
+ 
+
+  
 ## Running on new nodes
 
 Th new Rocky 8 nodes are grouped into Slurm partitions corresponding to their buy-in owners. The current partitions are listed [here](partitions.md). Accounts are associated with one or more of these partitions. An example comand to request an interactive shell on a node in a particular partition for nodes with GPUs is
